@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:id="@+id/sendLayoutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="8dp"
+        android:layout_toLeftOf="@+id/view"
+        android:gravity="right"
+        android:text="@string/butn_send"
+        android:textSize="16sp"
+        app:icon="@drawable/ic_file_upload_white_24dp" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="24dp"
+        android:layout_height="64dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:id="@+id/receiveLayoutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="8dp"
+        android:layout_toRightOf="@+id/view"
+        android:gravity="right"
+        android:text="@string/butn_receive"
+        android:textSize="16sp"
+        app:icon="@drawable/ic_file_download_white_24dp" />
+
+    <!--<LinearLayout
+        android:id="@+id/actionsContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/zxing_transparent"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/short_content_width_padding"
+        android:paddingTop="8dp"
+        android:paddingRight="@dimen/short_content_width_padding"
+        android:paddingBottom="8dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/zxing_transparent"
+            android:gravity="right">
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/sendLayoutButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="8dp"
+                android:text="@string/butn_send"
+                app:srcCompat="@drawable/ic_send_24" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="@dimen/short_content_width_padding"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/zxing_transparent"
+            android:gravity="left">
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/receiveLayoutButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginBottom="8dp"
+                android:padding="15dp"
+                android:text="@string/butn_receive"
+                app:srcCompat="@drawable/ic_receive_24" />
+
+        </LinearLayout>
+    </LinearLayout>-->
+
+    <!--<View
+        android:id="@+id/separator"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@id/actionsContainer"
+        android:background="?colorDivider" />-->
+
+    <FrameLayout
+        android:id="@+id/fragmentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true" />
+</RelativeLayout>
