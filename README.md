@@ -2,7 +2,7 @@
 File sharing app between multiple Android devices and also offers unique features like sharing over HTTP, pausing and resuming transfers. This project is based on FOSS project - Trebleshot.
 
 ## Get it on
-(https://play.google.com/store/apps/details?id=com.onetwodevs.anysend)
+[<img src="assets/google-play-badge.png" width="230">](https://play.google.com/store/apps/details?id=com.onetwodevs.anysend)
 
 ## Main features
 * Pause, resume and reconnect transfers
