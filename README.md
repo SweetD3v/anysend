@@ -1,5 +1,5 @@
 # anysend
-File sharing app between multiple Android devices and also offers unique features like sharing over HTTP, pausing and resuming transfers. This project is based on FOSS project - Trebleshot.
+File sharing application between multiple Android devices and also offers unique features like sharing over HTTP, pausing and resuming transfers. This project is based on FOSS project - Trebleshot.
 
 ## Get it on
 <a href='https://play.google.com/store/apps/details?id=com.onetwodevs.anysend&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="300" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
