@@ -4,10 +4,10 @@ File sharing application between multiple Android devices and also offers unique
 ## Get it on
 <a href='https://play.google.com/store/apps/details?id=com.onetwodevs.anysend&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="300" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-<p float="right">
+<p align="right">
   <a href="https://app.daily.dev/Dev4LifeToLive"><img src="https://github.com/SweetD3v/anysend/blob/master/devcard.svg" width="400" alt="SweetD3v's Dev Card"/>
   </a>
-  </p>
+</p>
 
 ## Main features
 * Pause, resume and reconnect transfers
