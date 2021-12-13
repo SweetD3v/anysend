@@ -6,7 +6,7 @@ File sharing application between multiple Android devices and also offers unique
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/SweetD3v/anysend/blob/master/devcard.svg" width="400" alt="SweetD3v's Dev Card"/></a>
 
-<a href="https://app.daily.dev/Dev4LifeToLive"><img src="https://api.daily.dev/devcards/415cf4321c0b48dcbb657e18b198b1e1.png?r=x4u" width="400" alt="Dev4Life's Dev Card"/></a>
+<a href="https://app.daily.dev/Dev4LifeToLive"><img src="https://github.com/SweetD3v/anysend/blob/master/devcard.svg" width="400" alt="SweetD3v's Dev Card"/></a>
 
 ## Main features
 * Pause, resume and reconnect transfers
